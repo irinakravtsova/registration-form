@@ -1,0 +1,12 @@
+body {
+  font-family: "Fira Code", monospace;
+  background-color: #08080B;
+  color: #fff;
+}
+.container {
+  width: 1920px;
+  height: 1080px;
+  padding: 149px 296px 107px 824px;
+  border-radius: 40px;
+  background-color: #242424;
+}
